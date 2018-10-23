@@ -1,0 +1,7 @@
+/* 0 -> '+' |1 -> '-' | 2 -> ' ' | 3 -> '#' | 4 - > '0'*/
+/* 0 -> width | 1 -> accept*/
+/* 1 - j | 2 - z | 3 - ll | 4 - l | 5 - hh | 6 - h*/
+/* format -> 0 | modif -> 1 | flag -> 2*/
+
+/*int *format;   // 0 -> '+' |1 -> '-' | 2 -> ' ' | 3 -> '#' | 4 - > '0'
+int *modificators; // 0 -> width | 1 -> accept*/
